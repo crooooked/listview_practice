@@ -10,9 +10,10 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"></ImageView>
     <TextView
+        android:id="@+id/text_detail"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:text="hksjhfkjshjkfsjkfhjkskfhkhafkajhfsfadfsdfsadfsdfnsdjnfksdjlfkjsdljflsdjflsdjlfkjsdlsdnflksd"
+        android:textAlignment="center"
         android:textSize="18sp"></TextView>
 </LinearLayout>
